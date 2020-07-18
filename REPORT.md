@@ -7,8 +7,8 @@
 На тестирование затрачено: 2 часа.
 
 ## В результате тестирования выявлены следующие дефекты:
-* При запуске приложения KeyValidator в терминале и проверке валидных ключей выявлено наличие невалидных ключей https://github.com/Tatiana-Brener/Task1.1_Java_KeyValidator/issues/2
-* При запуске приложения KeyValidator в терминале и проверке невалидных ключей выявлено наличие валидных ключей https://github.com/Tatiana-Brener/Task1.1_Java_KeyValidator/issues/3
+* [При запуске приложения KeyValidator в терминале и проверке валидных ключей выявлено наличие невалидных ключей](https://github.com/Tatiana-Brener/Task1.1_Java_KeyValidator/issues/2)
+* [При запуске приложения KeyValidator в терминале и проверке невалидных ключей выявлено наличие валидных ключей](https://github.com/Tatiana-Brener/Task1.1_Java_KeyValidator/issues/3)
 
 ## Описание процесса тестирования
 
